@@ -1,0 +1,13 @@
+name: theme
+type: theme
+core_version_requirement: ^8 || ^9
+base theme: classy
+libraries:
+  - theme/global-style
+requirements:
+  _content: True
+regions:
+  navbar: Navigation
+  land: Home
+  content: Page Content
+  footer: Page Footer

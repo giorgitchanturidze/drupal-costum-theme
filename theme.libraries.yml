@@ -1,0 +1,10 @@
+global-style:
+  version: 1.x
+  js:
+    ./app.js: {}
+  css:
+    theme:
+      ./output.css: {}
+  images:
+    ./img/: {}
+      
